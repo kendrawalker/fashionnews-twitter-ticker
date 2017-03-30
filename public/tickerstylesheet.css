@@ -1,0 +1,39 @@
+
+#ticker {
+  overflow: hidden;
+  position: relative;
+  height: 30px;
+
+}
+
+#coffeeheadlines {
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  left: 100%;
+}
+
+.coffeelink {
+  margin: 0;
+  padding-right: 50px;
+  font-weight: 400;
+  font-size: 20px;
+  display: inline;
+  color: yellow;
+  font-style: italic;
+}
+
+
+body {
+    background-image: url("hangers.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 15%;
+    color: white;
+    font-size: 100px;
+    font-weight: bolder;
+    text-shadow: 3px -2px 3px rgba(51, 51, 51, 1);
+}
